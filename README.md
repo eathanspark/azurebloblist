@@ -1,4 +1,4 @@
-# Powershell : How to get all blob name and full path from azure blob container
+# PowerShell : How to get all blob name and full path from azure blob container
 
 ## Prerequisite
 - Azure Storage Account Name
