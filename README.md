@@ -6,7 +6,7 @@
 - Azure Blob Container Name
 ## Agenda
 - We will create a powershel script to get list of all blob inside a azure blob container
-- we Will export all name and full path of eatch blob in a csv file
+- we will export all name and full path of eatch blob in a csv file
 
 ## Library Used 
 - Powershell Az Module
